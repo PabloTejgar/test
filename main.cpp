@@ -11,5 +11,6 @@ int main(int argc, char *argv[])
     qDebug() << "Cambio 4 de la mañana.";
     qDebug() << "Cambio 5 de la mañana.";
 
+
     return a.exec();
 }
